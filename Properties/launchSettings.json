@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Uppgift 5 programmering grund": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
