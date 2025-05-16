@@ -6,7 +6,7 @@ namespace EnkelKalkylator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enkel Kalkylator");
+            Console.WriteLine("Simpel Kalkylator");
             Console.WriteLine("Ange Operation (+, -, *, /):");
             char operation = Console.ReadKey().KeyChar;
             Console.WriteLine("Ange första talet:");

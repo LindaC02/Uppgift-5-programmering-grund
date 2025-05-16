@@ -1,0 +1,15 @@
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\bin\Debug\net8.0\Uppgift 5 programmering grund.exe
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\bin\Debug\net8.0\Uppgift 5 programmering grund.deps.json
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\bin\Debug\net8.0\Uppgift 5 programmering grund.runtimeconfig.json
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\bin\Debug\net8.0\Uppgift 5 programmering grund.dll
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\bin\Debug\net8.0\Uppgift 5 programmering grund.pdb
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.AssemblyInfoInputs.cache
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.AssemblyInfo.cs
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.sourcelink.json
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.dll
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\refint\Uppgift 5 programmering grund.dll
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.pdb
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\Uppgift 5 programmering grund.genruntimeconfig.cache
+C:\Users\linda\source\repos\Uppgift 5 programmering grund\Uppgift 5 programmering grund\obj\Debug\net8.0\ref\Uppgift 5 programmering grund.dll
