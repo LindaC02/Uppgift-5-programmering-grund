@@ -9,23 +9,23 @@ namespace EnkelKalkylator
         {
             List<string> historik = new List<string>();
 
-            Console.WriteLine("Simpel Kalkylator");
+            Console.WriteLine("Simple Calculator");
 
             bool fortsätt = true;
             while (fortsätt)
             {
 
-                Console.WriteLine("Ange Operation (+, -, *, /) eller A för att avsluta:");
+                Console.WriteLine("Enter Operation (+, -, *, /) or E to Exit:");
                 char operation = Console.ReadKey().KeyChar;
                 Console.WriteLine();
 
-                if (char.ToUpper(operation) == 'A')
+                if (char.ToUpper(operation) == 'E')
                     return;
 
-                Console.WriteLine("Ange första talet:");
+                Console.WriteLine("Enter first number:");
                 double num1 = Convert.ToDouble(Console.ReadLine());
 
-                Console.WriteLine("Ange andra talet:");
+                Console.WriteLine("Enter second number:");
                 double num2 = Convert.ToDouble(Console.ReadLine());
 
                 double result = 0;
@@ -45,21 +45,21 @@ namespace EnkelKalkylator
                         break;
 
                     default:
-                        Console.WriteLine("Ogiltig tal!");
+                        Console.WriteLine("Invalid Number!");
                         return;
                 }
-                Console.WriteLine($"Resultat: {result}");
+                Console.WriteLine($"Result: {result}");
                 historik.Add($"{num1} {operation} {num2} = {result}");
-                Console.WriteLine("Historik:");
+                Console.WriteLine("History:");
                 foreach (var rad in historik)
                     Console.WriteLine(rad);
                 Console.ReadKey();
 
-                Console.WriteLine("Skapa en ny beräkning J/N");
+                Console.WriteLine("Create a new calculation Y/N");
                 char svar = Console.ReadKey().KeyChar;
                 Console.WriteLine();
 
-                if (char.ToUpper(svar) != 'J')
+                if (char.ToUpper(svar) != 'Y')
                     fortsätt = false;
             }
         }

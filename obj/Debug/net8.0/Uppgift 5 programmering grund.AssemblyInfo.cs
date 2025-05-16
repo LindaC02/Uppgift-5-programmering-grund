@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uppgift 5 programmering grund")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a0c5f0458caffada284f3ae774cd8cc58123ae2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf196e35d0e9f63b101314c05f54afe222294e37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uppgift 5 programmering grund")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uppgift 5 programmering grund")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
